@@ -32,5 +32,5 @@ This project showcases my full-stack development skills, focusing on building a 
 
 - Feel free to explore the project, and let me know your thoughts!
 
-Connect me : <a href="https://www.linkedin.com/in/abhishektripathy2004?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"></a>
+Connect me : <a href="https://www.linkedin.com/in/abhishektripathy2004?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">Linkedin</a>
 
